@@ -4,14 +4,13 @@
 
 ---
 
-## 🏢 DADOS EMPRESARIAIS
+## 📋 PROPÓSITO
 
-| Campo | Valor |
-|-------|-------|
-| **Empresa** | SAB Tecnologia e Serviços |
-| **CEO** | Tiago Sant Anna |
-| **Contato** | sab.tecno@gmail.com |
-| **GitHub** | https://github.com/sabtecno |
+Benchmark avançado para testar modelos Ollama locais com métricas detalhadas:
+- Tempo de resposta
+- Tokens por segundo
+- Uso de memória RAM
+- Qualidade das respostas
 
 ---
 
@@ -26,16 +25,6 @@
 | ✅ Identidade visual corporativa completa | Implementado |
 | ✅ Logs com metadados da empresa | Implementado |
 | ✅ Detecção de Hyper-V e informações do sistema | Implementado |
-
----
-
-## 📋 PROPÓSITO
-
-Benchmark avançado para testar modelos Ollama locais com métricas detalhadas:
-- Tempo de resposta
-- Tokens por segundo
-- Uso de memória RAM
-- Qualidade das respostas
 
 ---
 
@@ -74,10 +63,21 @@ O script gera:
 
 ## 📞 CONTATO
 
-**Desenvolvido por:** Tiago Sant Anna  
-**Empresa:** SAB TEC - Tecnologia e Serviços  
-**Email:** sab.tecno@gmail.com  
-**GitHub:** https://github.com/sabtecno
+| Nome | Função | Email | GitHub |
+|------|--------|-------|--------|
+| **Tiago Sant Anna** | CEO / Desenvolvedor | sab.tecno@gmail.com | https://github.com/sabtecno |
+| **Sabrina Santos** | IA Assistente | - | https://github.com/sabrina-ia |
+
+---
+
+## 🏢 DADOS EMPRESARIAIS
+
+| Campo | Valor |
+|-------|-------|
+| **Empresa** | SAB Tecnologia e Serviços |
+| **CEO** | Tiago Sant Anna |
+| **Contato** | sab.tecno@gmail.com |
+| **GitHub** | https://github.com/sabtecno |
 
 ---
 
