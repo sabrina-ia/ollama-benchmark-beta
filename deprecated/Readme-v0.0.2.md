@@ -32,7 +32,7 @@ Benchmark avançado para testar modelos Ollama locais com métricas detalhadas:
 - **Configurável**: Permite ajustar parâmetros de teste conforme necessidade
 - **Multi-Modelo**: Capacidade de comparar diferentes modelos em batch
 
-## ✨ NOVIDADES v0.0.3
+## ✨ NOVIDADES v0.0.2
 | Feature | Status |
 |---------|--------|
 | ✅ Logo SAB TEC em ASCII art com figlet/lolcat | Implementado |
@@ -50,8 +50,8 @@ git clone https://github.com/sabrina-ia/ollama-benchmark-beta.git
 cd ollama-benchmark-beta
 
 # Execute o script
-chmod +x ollama-benchmark-beta-v0.0.3.sh
-./ollama-benchmark-beta-v0.0.3.sh
+chmod +x ollama-benchmark-beta-v0.0.2.sh
+./ollama-benchmark-beta-v0.0.2.sh
 ```
 ## 🔧 RECURSOS
 - Logo SAB TEC em ASCII art colorido
@@ -88,7 +88,7 @@ jq (processamento JSON)
 curl
 ## Uso
 
-./ollama-benchmark-beta-v0.0.3.sh [opções]
+./ollama-benchmark-beta-v0.0.2.sh [opções]
 
 ### Opções disponíveis:
 -m, --model : Especifica o modelo a ser testado (padrão: llama2)
@@ -98,7 +98,7 @@ curl
 
 ### Estrutura do Projeto
 ollama-benchmark-beta/
-├── ollama-benchmark-beta-v0.0.3.sh    # Script principal
+├── ollama-benchmark-beta-v0.0.2.sh    # Script principal
 ├── benchmarks/                        # Conjunto de testes
 │   ├── reasoning/
 │   ├── coding/
@@ -138,7 +138,7 @@ Contato: sab.tecno@gmail.com
 GitHub: https://github.com/sabtecno
 
 ## Versão do Projeto
-Versão: v0.0.3
+Versão: v0.0.2
 Data de Lançamento: 2026-02-23
 
 ## 📸 Screenshots
